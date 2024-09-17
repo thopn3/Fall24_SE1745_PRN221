@@ -1,0 +1,20 @@
+﻿MyFirstWPF
+1.0.0.0
+
+winexe
+C#
+.cs
+D:\Code demo\PRN221\SE1745\MyFirstWPF\MyFirstWPF\obj\Debug\net6.0-windows\
+MyFirstWPF
+none
+false
+TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+D:\Code demo\PRN221\SE1745\MyFirstWPF\MyFirstWPF\App.xaml
+8-14380164
+
+13182263988
+194-1977528901
+Layouts\FrmCanvas.xaml;Layouts\FrmGrid.xaml;Layouts\FrmLogin.xaml;Layouts\FrmStackPanel.xaml;Layouts\FrmWrap.xaml;MainWindow.xaml;Page1.xaml;Page2.xaml;
+
+True
+
