@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Topic3_JSON_Serialization/1.0.0": {
+        "runtime": {
+          "Topic3_JSON_Serialization.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Topic3_JSON_Serialization/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
