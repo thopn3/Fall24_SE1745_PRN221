@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{B753CB12-0046-4317-A48B-DB89D3C59043}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pages/AdminProfile.cshtml">
+    <Files>
+      <File FileName="Pages/Shared/_Layout.cshtml" Line="34" Column="35" />
+      <File FileName="Pages/_ViewStart.cshtml" Line="3" Column="2" />
+      <File FileName="Pages/RazorSingleFile.cshtml" Line="1" Column="1" />
+      <File FileName="Pages/RazorWithModel.cshtml" Line="6" Column="19" />
+      <File FileName="Pages/_ViewImports.cshtml" Line="3" Column="1" />
+      <File FileName="Pages/Error.cshtml" Line="18" Column="4" />
+      <File FileName="Program.cs" Line="10" Column="35" />
+      <File FileName="Pages/Index.cshtml" Line="1" Column="1" />
+      <File FileName="Pages/Privacy.cshtml" Line="8" Column="21" />
+      <File FileName="Pages/Shared/_AdminLayout.cshtml" Line="10" Column="22" />
+      <File FileName="Pages/Login.cshtml" Line="3" Column="2" />
+      <File FileName="Pages/UserProfile.cshtml" Line="1" Column="1" />
+      <File FileName="Pages/AdminProfile.cshtml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ASP_NET_RazorPage" expanded="True">
+            <Node name="ASP_NET_RazorPage">
+              <Node name="Pages">
+                <Node name="Shared" expanded="True" />
+                <Node name="AdminProfile.cshtml" selected="True" />
+                <Node name="RazorWithModel.cshtml" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ASP__NET__RazorPage PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

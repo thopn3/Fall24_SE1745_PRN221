@@ -1,0 +1,29 @@
+﻿@page
+
+@*
+    @functions{
+        [BindProperty]
+        public string Name { set; get; }
+    }
+*@
+
+@{
+    var Name = string.Empty;
+    if (Request.HasFormContentType)
+    {
+        Name = Request.Form["name"];
+    }
+}
+
+<form method="post">
+    <label>Name </label>
+    <input name="name"/>
+    <input type="submit" value="Get Name"/>
+</form>
+
+@*Nhung ma C# vao cu phap Razor*@
+
+@if (!string.IsNullOrEmpty(Name))
+{
+        <p>Welcome: @Name</p>
+}

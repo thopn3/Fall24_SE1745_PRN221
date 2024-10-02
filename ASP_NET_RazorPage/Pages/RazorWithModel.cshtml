@@ -1,0 +1,13 @@
+﻿@page
+@model ASP_NET_RazorPage.Pages.RazorWithModelModel
+
+<form method="post">
+   <label>Name </label>
+   <input asp-for="Name"/>
+   <input type="submit" value="Get Name" />
+</form>
+
+@if (!string.IsNullOrEmpty(Model.Name))
+{
+        <p>Welcome: @Model.Name</p>
+}
