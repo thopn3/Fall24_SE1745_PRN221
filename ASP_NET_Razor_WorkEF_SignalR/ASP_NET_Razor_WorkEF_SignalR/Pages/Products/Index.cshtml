@@ -1,0 +1,49 @@
+﻿@page
+@model ASP_NET_Razor_WorkEF_SignalR.Pages.Products.IndexModel
+@{
+    ViewData["Title"] = "Product List";
+}
+
+<h1>List Product</h1>
+
+<a asp-page="./Create">Add a new Product</a>
+
+<table>
+    <thead>
+        <tr>
+            <th>Product ID</th>
+            <th>Product Name</th>
+            <th>UnitPrice</th>
+            <th>UnitsInStock</th>
+            <th>Category</th>
+            <th>Discontinued</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var p in Model.Products)
+        {
+            <tr>
+                <td>@p.ProductId</td>
+                <td>@p.ProductName</td>
+                <td>@p.UnitPrice</td>
+                <td>@p.UnitsInStock</td>
+                <td>@p.Category?.CategoryName</td>
+                <td>
+                    @if(p.Discontinued == true)
+                    {
+                        <span style="color: red">Out of stock</span>
+                    }
+                    else
+                    {
+                        <span style="color: blue">In stock</span>
+                    }
+                </td>
+                <td>
+                    <a asp-page="./Edit" asp-route-id="@p.ProductId">Edit</a>
+                    <a asp-page="./Delete" asp-route-id="@p.ProductId">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

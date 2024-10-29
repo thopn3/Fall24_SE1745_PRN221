@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "CI8NkTu24YYpqOZTSzMCLbT9qoRmckiY2Zzh5X3OKLM=",
+  "Source": "ASP_NET_WorkDB",
+  "BasePath": "_content/ASP_NET_WorkDB",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

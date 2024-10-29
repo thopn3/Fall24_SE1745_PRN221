@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{49865548-D2F6-4C52-A662-4AF4A172A9BC}|Default">
+  <MonoDevelop.Ide.ItemProperties.ASP__NET__WorkDB PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="../ASP_NET_ModelValidation_FileUpload/Program.cs" Line="20" Column="11" />
+      <File FileName="../ASP_NET_ModelValidation_FileUpload/Models/Customer.cs" Line="21" Column="52" />
+      <File FileName="../ASP_NET_ModelValidation_FileUpload/Pages/customer/create.cshtml" Line="70" Column="11" />
+      <File FileName="../ASP_NET_ModelValidation_FileUpload/Pages/customer/create.cshtml.cs" Line="64" Column="27" />
+      <File FileName="../ASP_NET_ModelValidation_FileUpload/Pages/Layout/Template.cshtml" Line="12" Column="26" />
+      <File FileName="Program.cs" Line="22" Column="11" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ASP_NET_WorkDB" expanded="True">
+            <Node name="ASP_NET_ModelValidation_FileUpload">
+              <Node name="Models" expanded="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="customer" expanded="True">
+                  <Node name="create.cshtml" expanded="True" />
+                </Node>
+                <Node name="Layout" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ASP__NET__ModelValidation__FileUpload PreferredExecutionTarget="/Applications/Safari.app" />
+</Properties>

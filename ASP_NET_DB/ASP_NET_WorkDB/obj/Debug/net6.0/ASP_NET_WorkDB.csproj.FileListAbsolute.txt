@@ -1,0 +1,133 @@
+/Users/thopn/Documents/FPTU_Materials/Demo/2024/Fall24/PRN221/Fall24_SE1745_PRN221/ASP_NET_WorkDB/bin/Debug/net6.0/appsettings.Development.json
+/Users/thopn/Documents/FPTU_Materials/Demo/2024/Fall24/PRN221/Fall24_SE1745_PRN221/ASP_NET_WorkDB/bin/Debug/net6.0/appsettings.json
+/Users/thopn/Documents/FPTU_Materials/Demo/2024/Fall24/PRN221/Fall24_SE1745_PRN221/ASP_NET_WorkDB/bin/Debug/net6.0/ASP_NET_WorkDB
+/Users/thopn/Documents/FPTU_Materials/Demo/2024/Fall24/PRN221/Fall24_SE1745_PRN221/ASP_NET_WorkDB/bin/Debug/net6.0/ASP_NET_WorkDB.deps.json
+/Users/thopn/Documents/FPTU_Materials/Demo/2024/Fall24/PRN221/Fall24_SE1745_PRN221/ASP_NET_WorkDB/bin/Debug/net6.0/ASP_NET_WorkDB.runtimeconfig.json
+/Users/thopn/Documents/FPTU_Materials/Demo/2024/Fall24/PRN221/Fall24_SE1745_PRN221/ASP_NET_WorkDB/bin/Debug/net6.0/ASP_NET_WorkDB.dll
+/Users/thopn/Documents/FPTU_Materials/Demo/2024/Fall24/PRN221/Fall24_SE1745_PRN221/ASP_NET_WorkDB/bin/Debug/net6.0/ASP_NET_WorkDB.pdb
+/Users/thopn/Documents/FPTU_Materials/Demo/2024/Fall24/PRN221/Fall24_SE1745_PRN221/ASP_NET_WorkDB/obj/Debug/net6.0/ASP_NET_WorkDB.csproj.AssemblyReference.cache
+/Users/thopn/Documents/FPTU_Materials/Demo/2024/Fall24/PRN221/Fall24_SE1745_PRN221/ASP_NET_WorkDB/obj/Debug/net6.0/ASP_NET_WorkDB.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thopn/Documents/FPTU_Materials/Demo/2024/Fall24/PRN221/Fall24_SE1745_PRN221/ASP_NET_WorkDB/obj/Debug/net6.0/ASP_NET_WorkDB.AssemblyInfoInputs.cache
+/Users/thopn/Documents/FPTU_Materials/Demo/2024/Fall24/PRN221/Fall24_SE1745_PRN221/ASP_NET_WorkDB/obj/Debug/net6.0/ASP_NET_WorkDB.AssemblyInfo.cs
+/Users/thopn/Documents/FPTU_Materials/Demo/2024/Fall24/PRN221/Fall24_SE1745_PRN221/ASP_NET_WorkDB/obj/Debug/net6.0/ASP_NET_WorkDB.csproj.CoreCompileInputs.cache
+/Users/thopn/Documents/FPTU_Materials/Demo/2024/Fall24/PRN221/Fall24_SE1745_PRN221/ASP_NET_WorkDB/obj/Debug/net6.0/ASP_NET_WorkDB.MvcApplicationPartsAssemblyInfo.cache
+/Users/thopn/Documents/FPTU_Materials/Demo/2024/Fall24/PRN221/Fall24_SE1745_PRN221/ASP_NET_WorkDB/obj/Debug/net6.0/ASP_NET_WorkDB.RazorAssemblyInfo.cache
+/Users/thopn/Documents/FPTU_Materials/Demo/2024/Fall24/PRN221/Fall24_SE1745_PRN221/ASP_NET_WorkDB/obj/Debug/net6.0/ASP_NET_WorkDB.RazorAssemblyInfo.cs
+/Users/thopn/Documents/FPTU_Materials/Demo/2024/Fall24/PRN221/Fall24_SE1745_PRN221/ASP_NET_WorkDB/obj/Debug/net6.0/staticwebassets/msbuild.ASP_NET_WorkDB.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/thopn/Documents/FPTU_Materials/Demo/2024/Fall24/PRN221/Fall24_SE1745_PRN221/ASP_NET_WorkDB/obj/Debug/net6.0/staticwebassets/msbuild.build.ASP_NET_WorkDB.props
+/Users/thopn/Documents/FPTU_Materials/Demo/2024/Fall24/PRN221/Fall24_SE1745_PRN221/ASP_NET_WorkDB/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.ASP_NET_WorkDB.props
+/Users/thopn/Documents/FPTU_Materials/Demo/2024/Fall24/PRN221/Fall24_SE1745_PRN221/ASP_NET_WorkDB/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.ASP_NET_WorkDB.props
+/Users/thopn/Documents/FPTU_Materials/Demo/2024/Fall24/PRN221/Fall24_SE1745_PRN221/ASP_NET_WorkDB/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/thopn/Documents/FPTU_Materials/Demo/2024/Fall24/PRN221/Fall24_SE1745_PRN221/ASP_NET_WorkDB/obj/Debug/net6.0/staticwebassets.build.json
+/Users/thopn/Documents/FPTU_Materials/Demo/2024/Fall24/PRN221/Fall24_SE1745_PRN221/ASP_NET_WorkDB/obj/Debug/net6.0/staticwebassets.development.json
+/Users/thopn/Documents/FPTU_Materials/Demo/2024/Fall24/PRN221/Fall24_SE1745_PRN221/ASP_NET_WorkDB/obj/Debug/net6.0/scopedcss/bundle/ASP_NET_WorkDB.styles.css
+/Users/thopn/Documents/FPTU_Materials/Demo/2024/Fall24/PRN221/Fall24_SE1745_PRN221/ASP_NET_WorkDB/obj/Debug/net6.0/ASP_NET_WorkDB.dll
+/Users/thopn/Documents/FPTU_Materials/Demo/2024/Fall24/PRN221/Fall24_SE1745_PRN221/ASP_NET_WorkDB/obj/Debug/net6.0/refint/ASP_NET_WorkDB.dll
+/Users/thopn/Documents/FPTU_Materials/Demo/2024/Fall24/PRN221/Fall24_SE1745_PRN221/ASP_NET_WorkDB/obj/Debug/net6.0/ASP_NET_WorkDB.pdb
+/Users/thopn/Documents/FPTU_Materials/Demo/2024/Fall24/PRN221/Fall24_SE1745_PRN221/ASP_NET_WorkDB/obj/Debug/net6.0/ASP_NET_WorkDB.genruntimeconfig.cache
+/Users/thopn/Documents/FPTU_Materials/Demo/2024/Fall24/PRN221/Fall24_SE1745_PRN221/ASP_NET_WorkDB/obj/Debug/net6.0/ref/ASP_NET_WorkDB.dll
+/Users/thopn/Documents/FPTU_Materials/Demo/2024/Fall24/PRN221/Fall24_SE1745_PRN221/ASP_NET_WorkDB/bin/Debug/net6.0/Humanizer.dll
+/Users/thopn/Documents/FPTU_Materials/Demo/2024/Fall24/PRN221/Fall24_SE1745_PRN221/ASP_NET_WorkDB/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/thopn/Documents/FPTU_Materials/Demo/2024/Fall24/PRN221/Fall24_SE1745_PRN221/ASP_NET_WorkDB/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/thopn/Documents/FPTU_Materials/Demo/2024/Fall24/PRN221/Fall24_SE1745_PRN221/ASP_NET_WorkDB/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/thopn/Documents/FPTU_Materials/Demo/2024/Fall24/PRN221/Fall24_SE1745_PRN221/ASP_NET_WorkDB/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/thopn/Documents/FPTU_Materials/Demo/2024/Fall24/PRN221/Fall24_SE1745_PRN221/ASP_NET_WorkDB/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/thopn/Documents/FPTU_Materials/Demo/2024/Fall24/PRN221/Fall24_SE1745_PRN221/ASP_NET_WorkDB/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/thopn/Documents/FPTU_Materials/Demo/2024/Fall24/PRN221/Fall24_SE1745_PRN221/ASP_NET_WorkDB/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/thopn/Documents/FPTU_Materials/Demo/2024/Fall24/PRN221/Fall24_SE1745_PRN221/ASP_NET_WorkDB/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/thopn/Documents/FPTU_Materials/Demo/2024/Fall24/PRN221/Fall24_SE1745_PRN221/ASP_NET_WorkDB/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/thopn/Documents/FPTU_Materials/Demo/2024/Fall24/PRN221/Fall24_SE1745_PRN221/ASP_NET_WorkDB/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/thopn/Documents/FPTU_Materials/Demo/2024/Fall24/PRN221/Fall24_SE1745_PRN221/ASP_NET_WorkDB/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/thopn/Documents/FPTU_Materials/Demo/2024/Fall24/PRN221/Fall24_SE1745_PRN221/ASP_NET_WorkDB/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/thopn/Documents/FPTU_Materials/Demo/2024/Fall24/PRN221/Fall24_SE1745_PRN221/ASP_NET_WorkDB/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/thopn/Documents/FPTU_Materials/Demo/2024/Fall24/PRN221/Fall24_SE1745_PRN221/ASP_NET_WorkDB/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/thopn/Documents/FPTU_Materials/Demo/2024/Fall24/PRN221/Fall24_SE1745_PRN221/ASP_NET_WorkDB/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/thopn/Documents/FPTU_Materials/Demo/2024/Fall24/PRN221/Fall24_SE1745_PRN221/ASP_NET_WorkDB/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/thopn/Documents/FPTU_Materials/Demo/2024/Fall24/PRN221/Fall24_SE1745_PRN221/ASP_NET_WorkDB/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/thopn/Documents/FPTU_Materials/Demo/2024/Fall24/PRN221/Fall24_SE1745_PRN221/ASP_NET_WorkDB/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
+/Users/thopn/Documents/FPTU_Materials/Demo/2024/Fall24/PRN221/Fall24_SE1745_PRN221/ASP_NET_WorkDB/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/thopn/Documents/FPTU_Materials/Demo/2024/Fall24/PRN221/Fall24_SE1745_PRN221/ASP_NET_WorkDB/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/thopn/Documents/FPTU_Materials/Demo/2024/Fall24/PRN221/Fall24_SE1745_PRN221/ASP_NET_WorkDB/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/thopn/Documents/FPTU_Materials/Demo/2024/Fall24/PRN221/Fall24_SE1745_PRN221/ASP_NET_WorkDB/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/thopn/Documents/FPTU_Materials/Demo/2024/Fall24/PRN221/Fall24_SE1745_PRN221/ASP_NET_WorkDB/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/thopn/Documents/FPTU_Materials/Demo/2024/Fall24/PRN221/Fall24_SE1745_PRN221/ASP_NET_WorkDB/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/thopn/Documents/FPTU_Materials/Demo/2024/Fall24/PRN221/Fall24_SE1745_PRN221/ASP_NET_WorkDB/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/thopn/Documents/FPTU_Materials/Demo/2024/Fall24/PRN221/Fall24_SE1745_PRN221/ASP_NET_WorkDB/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/thopn/Documents/FPTU_Materials/Demo/2024/Fall24/PRN221/Fall24_SE1745_PRN221/ASP_NET_WorkDB/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/thopn/Documents/FPTU_Materials/Demo/2024/Fall24/PRN221/Fall24_SE1745_PRN221/ASP_NET_WorkDB/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/thopn/Documents/FPTU_Materials/Demo/2024/Fall24/PRN221/Fall24_SE1745_PRN221/ASP_NET_WorkDB/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/thopn/Documents/FPTU_Materials/Demo/2024/Fall24/PRN221/Fall24_SE1745_PRN221/ASP_NET_WorkDB/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/thopn/Documents/FPTU_Materials/Demo/2024/Fall24/PRN221/Fall24_SE1745_PRN221/ASP_NET_WorkDB/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/thopn/Documents/FPTU_Materials/Demo/2024/Fall24/PRN221/Fall24_SE1745_PRN221/ASP_NET_WorkDB/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/thopn/Documents/FPTU_Materials/Demo/2024/Fall24/PRN221/Fall24_SE1745_PRN221/ASP_NET_WorkDB/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/thopn/Documents/FPTU_Materials/Demo/2024/Fall24/PRN221/Fall24_SE1745_PRN221/ASP_NET_WorkDB/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/thopn/Documents/FPTU_Materials/Demo/2024/Fall24/PRN221/Fall24_SE1745_PRN221/ASP_NET_WorkDB/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/thopn/Documents/FPTU_Materials/Demo/2024/Fall24/PRN221/Fall24_SE1745_PRN221/ASP_NET_WorkDB/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/thopn/Documents/FPTU_Materials/Demo/2024/Fall24/PRN221/Fall24_SE1745_PRN221/ASP_NET_WorkDB/obj/Debug/net6.0/ASP_NET_WorkDB.csproj.CopyComplete
+D:\Code demo\PRN221\SE1745\ASP_NET_DB\ASP_NET_WorkDB\bin\Debug\net6.0\appsettings.Development.json
+D:\Code demo\PRN221\SE1745\ASP_NET_DB\ASP_NET_WorkDB\bin\Debug\net6.0\appsettings.json
+D:\Code demo\PRN221\SE1745\ASP_NET_DB\ASP_NET_WorkDB\bin\Debug\net6.0\ASP_NET_WorkDB.exe
+D:\Code demo\PRN221\SE1745\ASP_NET_DB\ASP_NET_WorkDB\bin\Debug\net6.0\ASP_NET_WorkDB.deps.json
+D:\Code demo\PRN221\SE1745\ASP_NET_DB\ASP_NET_WorkDB\bin\Debug\net6.0\ASP_NET_WorkDB.runtimeconfig.json
+D:\Code demo\PRN221\SE1745\ASP_NET_DB\ASP_NET_WorkDB\bin\Debug\net6.0\ASP_NET_WorkDB.dll
+D:\Code demo\PRN221\SE1745\ASP_NET_DB\ASP_NET_WorkDB\bin\Debug\net6.0\ASP_NET_WorkDB.pdb
+D:\Code demo\PRN221\SE1745\ASP_NET_DB\ASP_NET_WorkDB\bin\Debug\net6.0\Humanizer.dll
+D:\Code demo\PRN221\SE1745\ASP_NET_DB\ASP_NET_WorkDB\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Code demo\PRN221\SE1745\ASP_NET_DB\ASP_NET_WorkDB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Code demo\PRN221\SE1745\ASP_NET_DB\ASP_NET_WorkDB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Code demo\PRN221\SE1745\ASP_NET_DB\ASP_NET_WorkDB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Code demo\PRN221\SE1745\ASP_NET_DB\ASP_NET_WorkDB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Code demo\PRN221\SE1745\ASP_NET_DB\ASP_NET_WorkDB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Code demo\PRN221\SE1745\ASP_NET_DB\ASP_NET_WorkDB\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Code demo\PRN221\SE1745\ASP_NET_DB\ASP_NET_WorkDB\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Code demo\PRN221\SE1745\ASP_NET_DB\ASP_NET_WorkDB\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Code demo\PRN221\SE1745\ASP_NET_DB\ASP_NET_WorkDB\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Code demo\PRN221\SE1745\ASP_NET_DB\ASP_NET_WorkDB\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Code demo\PRN221\SE1745\ASP_NET_DB\ASP_NET_WorkDB\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Code demo\PRN221\SE1745\ASP_NET_DB\ASP_NET_WorkDB\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Code demo\PRN221\SE1745\ASP_NET_DB\ASP_NET_WorkDB\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Code demo\PRN221\SE1745\ASP_NET_DB\ASP_NET_WorkDB\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Code demo\PRN221\SE1745\ASP_NET_DB\ASP_NET_WorkDB\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Code demo\PRN221\SE1745\ASP_NET_DB\ASP_NET_WorkDB\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Code demo\PRN221\SE1745\ASP_NET_DB\ASP_NET_WorkDB\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Code demo\PRN221\SE1745\ASP_NET_DB\ASP_NET_WorkDB\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Code demo\PRN221\SE1745\ASP_NET_DB\ASP_NET_WorkDB\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Code demo\PRN221\SE1745\ASP_NET_DB\ASP_NET_WorkDB\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Code demo\PRN221\SE1745\ASP_NET_DB\ASP_NET_WorkDB\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Code demo\PRN221\SE1745\ASP_NET_DB\ASP_NET_WorkDB\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Code demo\PRN221\SE1745\ASP_NET_DB\ASP_NET_WorkDB\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Code demo\PRN221\SE1745\ASP_NET_DB\ASP_NET_WorkDB\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Code demo\PRN221\SE1745\ASP_NET_DB\ASP_NET_WorkDB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Code demo\PRN221\SE1745\ASP_NET_DB\ASP_NET_WorkDB\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code demo\PRN221\SE1745\ASP_NET_DB\ASP_NET_WorkDB\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code demo\PRN221\SE1745\ASP_NET_DB\ASP_NET_WorkDB\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code demo\PRN221\SE1745\ASP_NET_DB\ASP_NET_WorkDB\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code demo\PRN221\SE1745\ASP_NET_DB\ASP_NET_WorkDB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Code demo\PRN221\SE1745\ASP_NET_DB\ASP_NET_WorkDB\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Code demo\PRN221\SE1745\ASP_NET_DB\ASP_NET_WorkDB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Code demo\PRN221\SE1745\ASP_NET_DB\ASP_NET_WorkDB\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Code demo\PRN221\SE1745\ASP_NET_DB\ASP_NET_WorkDB\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Code demo\PRN221\SE1745\ASP_NET_DB\ASP_NET_WorkDB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Code demo\PRN221\SE1745\ASP_NET_DB\ASP_NET_WorkDB\obj\Debug\net6.0\ASP_NET_WorkDB.csproj.AssemblyReference.cache
+D:\Code demo\PRN221\SE1745\ASP_NET_DB\ASP_NET_WorkDB\obj\Debug\net6.0\ASP_NET_WorkDB.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code demo\PRN221\SE1745\ASP_NET_DB\ASP_NET_WorkDB\obj\Debug\net6.0\ASP_NET_WorkDB.AssemblyInfoInputs.cache
+D:\Code demo\PRN221\SE1745\ASP_NET_DB\ASP_NET_WorkDB\obj\Debug\net6.0\ASP_NET_WorkDB.AssemblyInfo.cs
+D:\Code demo\PRN221\SE1745\ASP_NET_DB\ASP_NET_WorkDB\obj\Debug\net6.0\ASP_NET_WorkDB.csproj.CoreCompileInputs.cache
+D:\Code demo\PRN221\SE1745\ASP_NET_DB\ASP_NET_WorkDB\obj\Debug\net6.0\ASP_NET_WorkDB.MvcApplicationPartsAssemblyInfo.cache
+D:\Code demo\PRN221\SE1745\ASP_NET_DB\ASP_NET_WorkDB\obj\Debug\net6.0\ASP_NET_WorkDB.RazorAssemblyInfo.cache
+D:\Code demo\PRN221\SE1745\ASP_NET_DB\ASP_NET_WorkDB\obj\Debug\net6.0\ASP_NET_WorkDB.RazorAssemblyInfo.cs
+D:\Code demo\PRN221\SE1745\ASP_NET_DB\ASP_NET_WorkDB\obj\Debug\net6.0\ASP_NET_WorkDB.sourcelink.json
+D:\Code demo\PRN221\SE1745\ASP_NET_DB\ASP_NET_WorkDB\obj\Debug\net6.0\staticwebassets.build.json
+D:\Code demo\PRN221\SE1745\ASP_NET_DB\ASP_NET_WorkDB\obj\Debug\net6.0\staticwebassets.development.json
+D:\Code demo\PRN221\SE1745\ASP_NET_DB\ASP_NET_WorkDB\obj\Debug\net6.0\staticwebassets\msbuild.ASP_NET_WorkDB.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Code demo\PRN221\SE1745\ASP_NET_DB\ASP_NET_WorkDB\obj\Debug\net6.0\staticwebassets\msbuild.build.ASP_NET_WorkDB.props
+D:\Code demo\PRN221\SE1745\ASP_NET_DB\ASP_NET_WorkDB\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ASP_NET_WorkDB.props
+D:\Code demo\PRN221\SE1745\ASP_NET_DB\ASP_NET_WorkDB\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ASP_NET_WorkDB.props
+D:\Code demo\PRN221\SE1745\ASP_NET_DB\ASP_NET_WorkDB\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Code demo\PRN221\SE1745\ASP_NET_DB\ASP_NET_WorkDB\obj\Debug\net6.0\scopedcss\bundle\ASP_NET_WorkDB.styles.css
+D:\Code demo\PRN221\SE1745\ASP_NET_DB\ASP_NET_WorkDB\obj\Debug\net6.0\ASP_NET_WorkDB.csproj.CopyComplete
+D:\Code demo\PRN221\SE1745\ASP_NET_DB\ASP_NET_WorkDB\obj\Debug\net6.0\ASP_NET_WorkDB.dll
+D:\Code demo\PRN221\SE1745\ASP_NET_DB\ASP_NET_WorkDB\obj\Debug\net6.0\refint\ASP_NET_WorkDB.dll
+D:\Code demo\PRN221\SE1745\ASP_NET_DB\ASP_NET_WorkDB\obj\Debug\net6.0\ASP_NET_WorkDB.pdb
+D:\Code demo\PRN221\SE1745\ASP_NET_DB\ASP_NET_WorkDB\obj\Debug\net6.0\ASP_NET_WorkDB.genruntimeconfig.cache
+D:\Code demo\PRN221\SE1745\ASP_NET_DB\ASP_NET_WorkDB\obj\Debug\net6.0\ref\ASP_NET_WorkDB.dll

@@ -1,0 +1,120 @@
+﻿@page
+@model ASP_NET_ModelValidation_FileUpload.Pages.employee.manageModel
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+
+
+@{
+    Layout = "Layout/Template";
+}
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-4">
+            @{
+                var EmployeeInfo = Model.EmployeeInfo;
+
+                if (EmployeeInfo != null)
+                {
+                    <h3>@Model.Message</h3>
+                    <div asp-validation-summary="All" style="color:red"></div>
+                    if (ModelState.IsValid)
+                    {
+                        <div class="card">
+                            <div class="card-body">
+                                <p>Employee name: @EmployeeInfo.EmployeeName</p>
+                                <p>Email: @EmployeeInfo.Email</p>
+                                <p>Year of birth: @EmployeeInfo.YearOfBirth</p>
+                                <p>
+                                    @if (Model.Images != null)
+                                    {
+                                        var Images = (List<string>)Model.Images;
+                                        <h3>Uploaded Image:</h3>
+                                        foreach (string imageName in Images)
+                                        {
+                                            <span style="margin:10px solid black">
+                                                <img src="@imageName" alt="Uploaded Image" style="width: 100px; height:100px; border: 1.5px solid black" />
+                                            </span>
+                                        }
+                                    }
+                                </p>
+                            </div>
+                        </div>
+                    }
+                }
+            }
+
+            @* Form input *@
+            <h3>Form - Create a new Employee</h3>
+            <form method="post" class="m-2 p-2 bg-light" enctype="multipart/form-data">
+                <div class="form-group">
+                    <label asp-for="@EmployeeInfo.EmployeeName"></label>
+                    <input asp-for="@EmployeeInfo.EmployeeName" class="form-control" />
+                    <span asp-validation-for="@EmployeeInfo.EmployeeName" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="@EmployeeInfo.Email"></label>
+                    <input asp-for="@EmployeeInfo.Email" class="form-control" />
+                    <span asp-validation-for="@EmployeeInfo.Email" class="text-danger"></span>
+                </div>
+
+                <div class="form-control">
+                    <label asp-for="@EmployeeInfo.YearOfBirth"></label>
+                    <input asp-for="@EmployeeInfo.YearOfBirth" class="form-control" />
+                    <span asp-validation-for="@EmployeeInfo.YearOfBirth" class="text-danger"></span>
+                </div>
+
+                <div class="form-control">
+                    <label asp-for="@Model.FileUploads"></label>
+                    <input asp-for="@Model.FileUploads" class="form-control" accept=".jpg,.jpeg,.png" required />
+                    <span asp-validation-formaction="@Model.FileUploads" class="text-danger"></span>
+                </div>
+
+                <div class="form-control">
+                    <button asp-page="Form" class="btn btn-primary">Send</button>
+                </div>
+
+            </form>
+        </div>
+        <div class="col-8">
+            <h1 class="text-center">List of Employees</h1>
+            <table class="table table-bordered table-hover table-striped">
+                <thead>
+                    <tr>
+                        <th>Id</th>
+                        <th>Name</th>
+                        <th>Email</th>
+                        <th>Age</th>
+                        <th>Image</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @if(Model.Employees != null)
+                    {
+                        foreach (var emp in Model.Employees)
+                        {
+                            <tr>
+                                <td>@emp.EmployeeId</td>
+                                <td>@emp.EmployeeName</td>
+                                <td>@emp.Email</td>
+                                <td>
+                                    @{
+                                        var age = DateTime.Now.Year - emp.YearOfBirth;
+                                    }
+                                    @age
+                                </td>
+                                <td>
+                                    @{
+                                        string[] images = emp.Images.Split(";");
+                                    }
+                                    <img src="/images/@images[0]" style="width: 100px; height:100px" />
+                                </td>
+                            </tr>
+                        }
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
